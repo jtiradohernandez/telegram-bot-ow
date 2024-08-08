@@ -17,3 +17,5 @@ I create this bot in telegram for adding extra functionalities in a personal tel
     - Create a counter command that receives a name and if is valid, replies with a list of Overwatch heroes that are a counter of the selected character
     - Improve the readme with a explanation of how to install and which tokens are required
     - Create a database to store all the meme images
+    - Export this into a docker container for the deployment in the home server
+    - Create a command for configuration of other servers/channels
