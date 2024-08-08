@@ -1,0 +1,4 @@
+version: '1'
+services:
+  telegrambotOW:
+    image: dockertelegrambot:latests
